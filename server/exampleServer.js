@@ -25,6 +25,3 @@ console.log(newFakeProduct);
     }
 */
 
-// app.get('/newproduct', (request, respnse) => {
-//     respnse.json({})
-// });
